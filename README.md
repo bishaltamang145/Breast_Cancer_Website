@@ -28,13 +28,6 @@ It supports three ways to provide input:
 - **Decision confidence score** — the signed distance from the SVM's decision boundary, showing how confidently a case falls on either side
 - **Dataset-driven defaults** — sliders and number boxes default to the dataset's mean values, with min/max bounds pulled from training data statistics
 
-## 🖥️ Demo
-
-<!-- Add a screenshot or GIF of the app here -->
-```
-[Add a screenshot of the app UI here, e.g. screenshots/demo.png]
-```
-
 ## 🧠 Model
 
 - **Algorithm:** Support Vector Machine (linear kernel)
@@ -108,10 +101,6 @@ The app will open automatically in your browser at `http://localhost:8501`.
 ## 📈 Dataset
 
 This project uses the **Wisconsin Diagnostic Breast Cancer (WDBC)** dataset, a widely used benchmark dataset in machine learning containing 569 instances of digitized biopsy features with 30 real-valued predictors.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
